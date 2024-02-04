@@ -1,0 +1,9 @@
+.container {
+  margin: 60px;
+  font-size: 40px;
+}
+
+.btn {
+  font-size: 40px;
+	cursor: pointer;
+}
