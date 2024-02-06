@@ -1,15 +1,15 @@
 import React from "react";
 
-const Colors = ({ color }) => {
+const Color = ({ color }) => {
   const style = {
     width: 25,
     height: 25,
     borderRadius: "50%",
+    backgroundColor: color,
     display: "inline-block",
     margin: "0px 10px",
-    backgroundColor: color,
   };
   return <span style={style}></span>;
 };
 
-export default Colors;
+export default Color;

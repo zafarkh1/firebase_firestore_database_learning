@@ -1,0 +1,18 @@
+.container {
+  margin: 60px;
+  font-size: 40px;
+}
+
+button {
+  cursor: pointer;
+}
+
+.btnNew {
+  font-size: 40px;
+  margin: 0 10px;
+}
+
+.btn2 {
+  font-size: 30px;
+  margin: 0 10px;
+}

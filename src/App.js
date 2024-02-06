@@ -1,9 +1,9 @@
-import FirestoreColors from "./components/firestore_colors";
+import Home from "./components/home";
 
 function App() {
   return (
     <div className="App">
-      <FirestoreColors />
+      <Home />
     </div>
   );
 }
